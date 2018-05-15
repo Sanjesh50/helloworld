@@ -1,1 +1,1 @@
-# helloworld - Unauthed mode testing
+# helloworld - Authed mode testing
